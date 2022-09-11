@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1160,
+          "bottomRow": 1200,
           "containerStyle": "none",
           "snapRows": 81,
           "parentRowSpace": 1,
@@ -32,7 +32,7 @@
               "topRow": 69,
               "isSortable": true,
               "type": "TABLE_WIDGET_V2",
-              "inlineEditingSaveOption": "ROW_LEVEL",
+              "inlineEditingSaveOption": "CUSTOM",
               "animateLoading": true,
               "dynamicBindingPathList": [
                 {
@@ -162,7 +162,7 @@
               ],
               "dynamicPropertyPathList": [],
               "displayName": "Table",
-              "bottomRow": 114,
+              "bottomRow": 118,
               "columnWidthMap": {
                 "task": 245,
                 "step": 62,

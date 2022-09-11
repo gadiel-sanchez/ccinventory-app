@@ -65,7 +65,7 @@
             "data": ""
           },
           "limit": {
-            "data": ""
+            "data": "100"
           },
           "projection": {
             "data": ""
@@ -78,7 +78,7 @@
         },
         "misc": {
           "formToNativeQuery": {
-            "data": "{\n  \"find\": \"productos\",\n  \"limit\": 10,\n  \"batchSize\": 10\n}\n",
+            "data": "{\n  \"find\": \"productos\",\n  \"limit\": 100,\n  \"batchSize\": 100\n}\n",
             "status": "SUCCESS"
           }
         },
